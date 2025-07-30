@@ -22,6 +22,4 @@ I'm Gabriel Victor — a passionate Front-End Web Developer currently learning J
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielVictor-cmd&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=purple&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielVictor-cmd&layout=compact&bg_color=000&border_color=30A3DC&title_color=purple&text_color=FFF)
-
 <p> Thanks for visiting my profile! Have a great day! 🚀 </p>
