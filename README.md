@@ -18,8 +18,4 @@ I'm Gabriel Victor — a passionate Front-End Web Developer currently learning J
 - <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"> </a>
 <br>
 
-### 📊 My GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielVictor-cmd&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=purple&text_color=FFF)
-
 <p> Thanks for visiting my profile! Have a great day! 🚀 </p>
