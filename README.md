@@ -1,21 +1,33 @@
-# 👋 Hello there!
-I'm Gabriel Victor — a passionate Front-End Web Developer currently learning JavaScript and React to create beautiful and dynamic user experiences. 
-<br>
+# 👋 Olá, eu sou o Gabriel Victor!
 
-### ⚙️ My skills:
-- <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"> 
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-- <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<br>
+Sou um **Desenvolvedor Front-End** apaixonado por criar experiências web bonitas, dinâmicas e focadas no usuário. Atualmente, estou aprofundando meus conhecimentos em **JavaScript** e **React**.
 
-### 📫 Connect with me!
-- <a href="https://www.instagram.com/gabriel_victor0108/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+---
 
-- <a href="https://github.com/GabrielVictor-cmd" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+### 🛠️ Minhas Habilidades (Tech Stack)
 
-- <a href="https://www.linkedin.com/in/gabriel-victor-7148212ab/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div id="badges">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style-for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-157286?style-for-the-badge&logo-css3&logoColor=white">" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-blue?logo=javascript" alt="JavaScript"/>
 
-- <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"> </a>
-<br>
+</div>
 
-<p> Thanks for visiting my profile! Have a great day! 🚀 </p>
+
+### 🤝 Vamos nos conectar?
+
+<div id="contatos">
+  <a href="https://www.linkedin.com/in/gabriel-victor0108/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gabrielvictorribeiro84@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/gabriel_victor0108/" target="_blank">
+    <img src="https://shields.io" alt="Instagram"/>
+  </a>
+</div>
+
+---
+
+💡 *Obrigado por visitar meu perfil! Tenha um excelente dia.*
