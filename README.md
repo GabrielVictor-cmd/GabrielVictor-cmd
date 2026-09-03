@@ -8,7 +8,7 @@ Sou um **Desenvolvedor Front-End** apaixonado por criar experiências web bonita
 
 <div id="badges">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style-for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-157286?style-for-the-badge&logo-css3&logoColor=white">" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/CSS3-157286?style-for-the-badge&logo-css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-blue?logo=javascript" alt="JavaScript"/>
 
 </div>
