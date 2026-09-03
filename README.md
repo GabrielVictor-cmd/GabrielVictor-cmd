@@ -22,7 +22,7 @@ Sou um **Desenvolvedor Front-End** apaixonado por criar experiências web bonita
   <a href="https://www.linkedin.com/in/gabriel-victor0108/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-victor0108/" alt="LinkedIn"/>
   </a>
-  <a href="mailto:gabrielvictorribeiro84@gmail.com" target="_blank">
+  <a href="https://www.mailto:gabrielvictorribeiro84@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/gabriel_victor0108/" target="_blank">
