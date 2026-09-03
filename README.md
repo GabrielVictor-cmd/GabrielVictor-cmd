@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Gabriel Victor!
 
-Sou um **Desenvolvedor Front-End** apaixonado por criar experiências web bonitas, dinâmicas e focadas no usuário. Atualmente, estou aprofundando meus conhecimentos em **JavaScript** e **React**.
+Sou um **Desenvolvedor Front-End** apaixonado por criar experiências web bonitas, dinâmicas e focadas no usuário. Atualmente, estou aprofundando meus conhecimentos em **JavaScript** e **React** e **buscando estágio** e serviço **freelance** para ampliar meus conhecimentos
+
 
 ---
 
